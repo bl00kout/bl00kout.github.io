@@ -1,0 +1,13 @@
+{
+  "Meme-001": {
+    "Name": "Frooggie",
+    "Rarity": "TestersOnlyItem",
+    "CanBeModifyed": true
+  },
+  "Meme-002": {
+    "Name": "SibuInu-Doge",
+    "IsCute": true,
+    "Rarity": "Epic",
+    "CanBePet": true
+  }
+}
