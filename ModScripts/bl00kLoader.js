@@ -3,6 +3,6 @@ function bl00kget() {
         var js = json;
         js = JSON.stringify(js)
         js = JSON.parse(js)
-        alert(js.Meme-001.Name);
+        alert(js["Meme-001"].Name);
     });
 }
