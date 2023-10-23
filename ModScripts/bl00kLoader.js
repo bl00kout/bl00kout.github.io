@@ -3,5 +3,5 @@ function bl00kget() {
         var js = json;
         json.parse(js)
         alert(js.Meme-001.Name);
-    }));
+    });
 }
